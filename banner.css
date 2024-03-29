@@ -1,0 +1,24 @@
+.banner { 
+    background-image: linear-gradient(-180deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.4) 50%), url("garages.png");
+    background-size: cover;     
+    background-position: center;
+    color: white;
+    padding: 16%;
+    text-align: center;
+}
+
+.banner h1 {
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: rgba(155,7,7,0.80) 0 0 10px;
+}
+
+.banner h2 {
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    opacity: 0.9;
+    text-align: center;
+    text-shadow: rgba(155,7,7,0.80) 0 0 15px;
+}
